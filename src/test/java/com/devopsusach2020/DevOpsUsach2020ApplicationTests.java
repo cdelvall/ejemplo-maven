@@ -15,5 +15,4 @@ class DevOpsUsach2020ApplicationTests {
 		Pais p = new Pais();
     assertNotNull(p);
 	}
-
 }
